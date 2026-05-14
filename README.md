@@ -1,9 +1,3 @@
-# final-requirement-ws03-ws05
-
-Here's a professional README structure for your Clothing Inventory System based on the GitHub reference you provided.
-
----
-
 # 👕 Clothing Inventory System
 
 A secure, role-based clothing inventory management system built with PHP and MySQL. This system provides a comprehensive solution for managing clothing inventory, user accounts, and item approvals across three distinct user roles.
