@@ -93,7 +93,3 @@ CLOTHING_STORE/
 ├── login.php                     
 └── logout.php                 
 ```
-## 👥 Credits
-
-- **Developers:** Garis, Benedict / Mabalay, Recelyn / Manzon, Gemma Rose
-- **Project Type:** Final Requirement / Inventory Management System
