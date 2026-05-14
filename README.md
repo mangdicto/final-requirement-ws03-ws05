@@ -50,51 +50,50 @@ A secure, role-based clothing inventory management system built with PHP and MyS
 ```
 CLOTHING_STORE/
 │
-├── admin/                          # Admin portal (admin only)
-│   ├── add_item.php               # Add new inventory item
-│   ├── add_user.php               # Add new user account
-│   ├── approve_action.php         # Process item approval/rejection
-│   ├── approve_item.php           # View pending items for approval
-│   ├── archive_action.php         # Archive/restore processing
-│   ├── archive_user.php           # Archive user accounts
-│   ├── dashboard.php              # Admin dashboard
-│   ├── manage_user.php            # Manage registered users
-│   ├── pending_items.php          # View items pending approval
-│   ├── reset_user_password.php    # Reset user passwords
-│   ├── restore.php                # Restore archived items/users
-│   ├── update_item_process.php    # Update item details
-│   ├── user_action.php            # User management actions
-│   └── view_item.php              # View individual item details
+├── admin/                         
+│   ├── add_item.php              
+│   ├── add_user.php              
+│   ├── approve_action.php        
+│   ├── approve_item.php         
+│   ├── archive_action.php        
+│   ├── archive_user.php          
+│   ├── dashboard.php           
+│   ├── manage_user.php           
+│   ├── pending_items.php         
+│   ├── reset_user_password.php    
+│   ├── restore.php               
+│   ├── update_item_process.php   
+│   ├── user_action.php            
+│   └── view_item.php            
 │
 ├── config/
-│   └── database.php               # Database connection configuration
+│   └── database.php      
 │
 ├── functions/
-│   └── auth.php                   # Authentication functions & session handling
+│   └── auth.php                 
 │
-├── superadmin/                     # Super admin portal
-│   ├── add_admin.php              # Add new admin account
-│   ├── archive_admin.php          # Archive admin accounts
-│   ├── dashboard.php              # Super admin dashboard
-│   ├── manage_admin.php           # Manage existing admins
-│   └── reset_admin_password.php   # Reset admin passwords
+├── superadmin/                   
+│   ├── add_admin.php             
+│   ├── archive_admin.php       
+│   ├── dashboard.php            
+│   ├── manage_admin.php          
+│   └── reset_admin_password.php   
 │
-├── uploads/                        # Uploaded item images storage
+├── uploads/                      
 │
-├── user/                           # Regular user portal
-│   ├── add_item.php               # Submit new item for approval
-│   ├── approved_items.php         # View approved items
-│   ├── dashboard.php              # User dashboard
-│   ├── pending_items.php          # View pending submissions
-│   ├── rejected_items.php         # View rejected submissions
-│   └── view_item.php              # View item details
+├── user/                          
+│   ├── add_item.php              
+│   ├── approved_items.php       
+│   ├── dashboard.php            
+│   ├── pending_items.php         
+│   ├── rejected_items.php  
+│   └── view_item.php          
 │
-├── dashboard.php                   # Role-based landing page
-├── login.php                       # User authentication with Remember Me
-└── logout.php                      # Session termination & cookie cleanup
+├── dashboard.php               
+├── login.php                     
+└── logout.php                 
 ```
 ## 👥 Credits
 
 - **Developers:** Garis, Benedict / Mabalay, Recelyn / Manzon, Gemma Rose
 - **Project Type:** Final Requirement / Inventory Management System
-- **Course:** Web Development / Database Management
