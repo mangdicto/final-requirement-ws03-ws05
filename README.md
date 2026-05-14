@@ -101,6 +101,6 @@ CLOTHING_STORE/
 ```
 ## 👥 Credits
 
-- **Developers:** Garis, Benedict/Mabalay, Recelyn/Manzon, Gemma Rose
+- **Developers:** Garis, Benedict / Mabalay, Recelyn / Manzon, Gemma Rose
 - **Project Type:** Final Requirement / Inventory Management System
 - **Course:** Web Development / Database Management
