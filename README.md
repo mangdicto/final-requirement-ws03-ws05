@@ -1,6 +1,3 @@
-Narito ang **na-update na README** na kasama ang lahat ng bagong features na idinagdag natin:
-
----
 
 # 👕 Clothing Inventory System
 
